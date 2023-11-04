@@ -14,7 +14,7 @@ function Header() {
     <Navbar bg="dark" data-bs-theme="dark">
       <Container>
         <Navbar.Brand>
-            <Link to="/" style={linkStyle}>테스트 스터디 매칭</Link>
+            <Link to="/" style={linkStyle}>스터디 매칭</Link>
         </Navbar.Brand>
         <Nav className="justify-content-end">
         <Nav.Link>
